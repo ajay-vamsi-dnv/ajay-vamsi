@@ -26,8 +26,6 @@ When Vamsi's not developing and building things, you can find him on instagram p
 
 
 
-
-
 ## 📫 Where to find him
 - [Twitter](https://twitter.com/ajayvamsi1996) 🐤
 - [Instagram](https://instagram.com/travelling_coders) 😎
