@@ -9,9 +9,9 @@
 <a href="https://www.linkedin.com/in/ajay-vamsi/"><img height="30" src="icons/linkedin.png?raw=true"></a>
 </p>
 
-<p align="center">I am a 20 year old Developer,CSE Student, Content Creator, Bug Hunter, Tech Geek from India.
-I'm in a 3rd year at GTU.I am passionate about java, flutter, and backend development and finding security vulnerabilities in websites.
-When I'm not developing and building things, you can find me on instagram page <a href="https://instagram.com/coding_boy_">@Codingboy</a>, writing an article on one of my blog <a href="https://codingboy.in">codingboy.in</a>, watching tech videos and searching random stuff on internet,. But most of my days are spent working on my personal projects.</p>
+<p align="center">I am a Full Stack Web Developer,Content Creator, Bug Hunter, Tech Geek from India.
+I have 4+ Years of Experience in Full Stack Web Development.I am passionate about Angular Js, React js, and Vue Js.
+When I'm not developing and building things, you can find me on instagram page <a href="https://instagram.com/travelling_coders">@travelling_coders</a>, watching tech videos and searching random stuff on internet,. But most of my days are spent working on my Personal Projects.</p>
   
 
 - 🔭 I’m currently working on HTML & CSS projects.
@@ -19,6 +19,7 @@ When I'm not developing and building things, you can find me on instagram page <
 - 👯 I’m looking to collaborate on Instagram
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: [Instagram@travelling_coders](https://instagram.com/travelling_coders)
+- 😄 You can call me Ajay or Vamsi
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ajay-vamsi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
