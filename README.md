@@ -16,28 +16,17 @@ I'm in a 3rd year at GTU.I am passionate about java, flutter, and backend develo
 When I'm not developing and building things, you can find me on instagram page <a href="https://instagram.com/coding_boy_">@Codingboy</a>, writing an article on one of my blog <a href="https://codingboy.in">codingboy.in</a>, watching tech videos and searching random stuff on internet,. But most of my days are spent working on my personal projects.</p>
   
 
-- 🔭 I’m currently working on fluttter project.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on HTML & CSS projects.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Instagram
-- 💬 Ask me about java and flutter.
-- 📫 How to reach me: [Twitter@MrCodingBoy](https://twitter.com/mrcodingboy)
+- 💬 Ask me about Web Development.
+- 📫 How to reach me: [Instagram@travelling_coders](https://instagram.com/travelling_coders)
 - 😄 My name is viral (विरल) not Vaayral 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=viralvaghela&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=ajay-vamsi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-### 📰 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to create a Telegram bot using java?
-](https://codingboy.in/how-to-create-a-telegram-bot-using-java/)
-- [What is Flutter? Why You Should Learn it in 2021?
-](https://vaghelaviral.medium.com/what-is-flutter-why-you-should-learn-it-in-2021-43bd03dade34)
 
-### 💻 What i am currently/done working on
-- [Telegram Bot](https://github.com/viralvaghela/Telegram-Bot-Array-Index-Out-Of-Bound)  🚀
-- [Flutter Insta Package](https://pub.dev/packages/flutter_insta)  🚀
-- Medium Clone app  🚀 *coming soon*
-- [Click here for other projects](https://github.com/viralvaghela?tab=repositories)
 
 
 
