@@ -11,7 +11,7 @@
 
 <p align="center">Vamsi is a Full Stack Web Developer, Bug Hunter, Tech Geek from India.
 Vamsi has 4+ Years of Experience in Full Stack Web Development.Vamsi is passionate about Angular Js, React js, and Vue Js.
-When Vamsi's not developing and building things, you can find him on instagram page <a href="https://instagram.com/travelling_coders">@travelling_coders</a>. But most of his days are spent working on my Personal Projects.</p>
+When Vamsi's not developing and building things, you can find him on instagram page <a href="https://instagram.com/travelling_coders">@travelling_coders</a>. But most of his days are spent working on Personal Projects.</p>
   
 
 - 🔭 Vamsi is currently working on HTML & CSS projects.
