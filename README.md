@@ -15,7 +15,6 @@ When Vamsi's not developing and building things, you can find him on instagram p
   
 
 - 🔭 Vamsi is currently working on HTML & CSS projects.
-- 🌱 Vamsi is currently learning React Js.
 - 👯 Vamsi is looking to collaborate on Instagram
 - 💬 Ask him about Web Development.
 - 📫 How to reach him: [Instagram@travelling_coders](https://instagram.com/travelling_coders)
