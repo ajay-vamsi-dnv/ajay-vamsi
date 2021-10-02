@@ -29,7 +29,7 @@ When Vamsi's not developing and building things, you can find him on instagram p
 - [Twitter](https://twitter.com/ajayvamsi1996) 🐤
 - [Instagram](https://instagram.com/travelling_coders) 😎
 - [LinkedIn](https://www.linkedin.com/in/ajay-vamsi/) 👨💼
-- [Website](https://ajay-vamsi.github.io/ajayvamsi-dnv/) 😏🔗
+- [Website](https://ajay-vamsi.netlify.app) 😏🔗
 
 ## Stargazers
 
