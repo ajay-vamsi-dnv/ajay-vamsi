@@ -1,4 +1,5 @@
-<h2 align="center">You are viewing Ajay Vamsi DNV's Profile. 👋</h2>
+<h2 align="center">You are viewing Ajay Vamsi DNV's Profile. 👋 </h2>
+<h5  align="center"><em>(Pronouns He/Him)<em></h5>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/ajay-vamsi/"><img height="30" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -12,10 +13,15 @@ When Vamsi's not developing and building things, you can find him on instagram p
   
 
 - 🔭 Vamsi is currently working on Angular Projects.
-- 👯 Vamsi is looking to collaborate on Instagram
+- 👯 Vamsi is looking for Developer(s) who can collaborate on his Personal Projects
+- 🖥️  See my portfolio at [ajay-vamsi](http://ajay-vamsi.netlify.app)
 - 💬 Ask him about Web Development.
 - 📫 How to reach him on Instagram: [@travelling_coders](https://instagram.com/travelling_coders)
 - 😄 You can call him either by Ajay or Vamsi
+
+### Skills
+
+<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> </p>
 
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=ajay-vamsi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">-->
@@ -36,18 +42,17 @@ When Vamsi's not developing and building things, you can find him on instagram p
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajay-vamsi&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajay-vamsi&theme=github)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajay-vamsi&theme=light)
-
 ---
 
 
 
 ## 📫 Where to find him
-- [Twitter](https://twitter.com/ajayvamsi1996) 🐤
-- [Instagram](https://instagram.com/travelling_coders) 😎
-- [LinkedIn](https://www.linkedin.com/in/ajay-vamsi/) 👨💼
-- [Website](https://ajay-vamsi.netlify.app) 😏🔗
-
----
+	
+<p align="left"> <a href="https://www.github.com/ajay-vamsi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ajay-vamsi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/travelling_coders" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://www.twitter.com/ajayvamsi1996" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
+	
+<hr>
 
 ## Stargazers
 
